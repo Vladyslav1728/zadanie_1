@@ -327,7 +327,7 @@
               </div>
               <div class="col-lg-12">
                 <fieldset>
-                  <label for="chooseOption" class="form-label">Your Reason</label>
+                  <label for="chooseOption" class="form-label">Your Reasons</label>
                   <select name="Category" class="form-select" aria-label="Default select example" id="chooseOption" onchange="this.form.click()">
                       <option selected>Choose an Option</option>
                       <option type="checkbox" name="option1" value="Online Banking">Online Banking</option>
